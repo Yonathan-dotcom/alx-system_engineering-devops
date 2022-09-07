@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $nameBEST=$value"School" 
+echo $name"BEST="$value"School" 
